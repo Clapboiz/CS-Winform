@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bai01_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai01_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai01_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai03_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai03_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai03_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai04_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai04_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai04_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cau2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cau2_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
