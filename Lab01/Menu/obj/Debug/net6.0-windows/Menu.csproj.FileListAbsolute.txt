@@ -1,0 +1,7 @@
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+D:\File code\c#\THUC_HANH\Lab01\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache

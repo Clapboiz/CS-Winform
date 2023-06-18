@@ -1,0 +1,17 @@
+D:\File code\c#\THUC_HANH\Lab01\Bai05\bin\Debug\net6.0-windows\Bai05.exe
+D:\File code\c#\THUC_HANH\Lab01\Bai05\bin\Debug\net6.0-windows\Bai05.deps.json
+D:\File code\c#\THUC_HANH\Lab01\Bai05\bin\Debug\net6.0-windows\Bai05.runtimeconfig.json
+D:\File code\c#\THUC_HANH\Lab01\Bai05\bin\Debug\net6.0-windows\Bai05.dll
+D:\File code\c#\THUC_HANH\Lab01\Bai05\bin\Debug\net6.0-windows\Bai05.pdb
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.csproj.AssemblyReference.cache
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.Form1.resources
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.csproj.GenerateResource.cache
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.GeneratedMSBuildEditorConfig.editorconfig
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.AssemblyInfoInputs.cache
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.AssemblyInfo.cs
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.csproj.CoreCompileInputs.cache
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.dll
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\refint\Bai05.dll
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.pdb
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\Bai05.genruntimeconfig.cache
+D:\File code\c#\THUC_HANH\Lab01\Bai05\obj\Debug\net6.0-windows\ref\Bai05.dll
