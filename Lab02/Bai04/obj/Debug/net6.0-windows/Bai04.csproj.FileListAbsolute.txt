@@ -1,0 +1,17 @@
+D:\File code\c#\THUC_HANH\Lab02\Bai04\bin\Debug\net6.0-windows\Bai04.exe
+D:\File code\c#\THUC_HANH\Lab02\Bai04\bin\Debug\net6.0-windows\Bai04.deps.json
+D:\File code\c#\THUC_HANH\Lab02\Bai04\bin\Debug\net6.0-windows\Bai04.runtimeconfig.json
+D:\File code\c#\THUC_HANH\Lab02\Bai04\bin\Debug\net6.0-windows\Bai04.dll
+D:\File code\c#\THUC_HANH\Lab02\Bai04\bin\Debug\net6.0-windows\Bai04.pdb
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.csproj.AssemblyReference.cache
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.Form1.resources
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.csproj.GenerateResource.cache
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.GeneratedMSBuildEditorConfig.editorconfig
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.AssemblyInfoInputs.cache
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.AssemblyInfo.cs
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.csproj.CoreCompileInputs.cache
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.dll
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\refint\Bai04.dll
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.pdb
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\Bai04.genruntimeconfig.cache
+D:\File code\c#\THUC_HANH\Lab02\Bai04\obj\Debug\net6.0-windows\ref\Bai04.dll
