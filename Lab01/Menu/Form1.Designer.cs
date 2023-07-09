@@ -28,70 +28,84 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            Bai1 = new Button();
+            Bai2 = new Button();
+            Bai3 = new Button();
+            Bai4 = new Button();
+            Bai5 = new Button();
+            SuspendLayout();
             // 
-            // button1
+            // Bai1
             // 
-            this.button1.Location = new System.Drawing.Point(239, 182);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 29);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Bài 01";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.Bai01_Click);
+            Bai1.Location = new Point(223, 192);
+            Bai1.Name = "Bai1";
+            Bai1.Size = new Size(94, 29);
+            Bai1.TabIndex = 0;
+            Bai1.Text = "Bài 01";
+            Bai1.UseVisualStyleBackColor = true;
+            Bai1.Click += Bai01_Click;
             // 
-            // button2
+            // Bai2
             // 
-            this.button2.Location = new System.Drawing.Point(391, 182);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(94, 29);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Bài 02";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.Bai02_Click);
+            Bai2.Location = new Point(357, 192);
+            Bai2.Name = "Bai2";
+            Bai2.Size = new Size(94, 29);
+            Bai2.TabIndex = 1;
+            Bai2.Text = "Bài 02";
+            Bai2.UseVisualStyleBackColor = true;
+            Bai2.Click += Bai02_Click;
             // 
-            // button3
+            // Bai3
             // 
-            this.button3.Location = new System.Drawing.Point(239, 238);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(94, 29);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Bài 03";
-            this.button3.UseVisualStyleBackColor = true;
+            Bai3.Location = new Point(475, 192);
+            Bai3.Name = "Bai3";
+            Bai3.Size = new Size(94, 29);
+            Bai3.TabIndex = 2;
+            Bai3.Text = "Bài 03";
+            Bai3.UseVisualStyleBackColor = true;
+            Bai3.Click += Bai3_Click;
             // 
-            // button4
+            // Bai4
             // 
-            this.button4.Location = new System.Drawing.Point(391, 238);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(94, 29);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Bài 04";
-            this.button4.UseVisualStyleBackColor = true;
+            Bai4.Location = new Point(287, 248);
+            Bai4.Name = "Bai4";
+            Bai4.Size = new Size(94, 29);
+            Bai4.TabIndex = 3;
+            Bai4.Text = "Bài 04";
+            Bai4.UseVisualStyleBackColor = true;
+            Bai4.Click += Bai4_Click;
+            // 
+            // Bai5
+            // 
+            Bai5.Location = new Point(409, 248);
+            Bai5.Name = "Bai5";
+            Bai5.Size = new Size(94, 29);
+            Bai5.TabIndex = 4;
+            Bai5.Text = "Bài 05";
+            Bai5.UseVisualStyleBackColor = true;
+            Bai5.Click += Bai5_Click;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Menu";
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(Bai5);
+            Controls.Add(Bai4);
+            Controls.Add(Bai3);
+            Controls.Add(Bai2);
+            Controls.Add(Bai1);
+            Name = "Form1";
+            Text = "Menu";
+            ResumeLayout(false);
         }
 
         #endregion
 
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
+        private Button Bai1;
+        private Button Bai2;
+        private Button Bai3;
+        private Button Bai4;
+        private Button Bai5;
     }
 }
