@@ -1,0 +1,32 @@
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.Form1.resources
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.GenerateResource.cache
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.AssemblyInfoInputs.cache
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.AssemblyInfo.cs
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.exe
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.deps.json
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.runtimeconfig.json
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.runtimeconfig.dev.json
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.dll
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.pdb
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.dll
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.pdb
+C:\Users\quang\Downloads\Major\COS20007\ChessAIForms\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.genruntimeconfig.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.exe
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.deps.json
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.runtimeconfig.json
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.runtimeconfig.dev.json
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.dll
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\bin\Debug\netcoreapp3.1\ChessAIForms.pdb
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.AssemblyReference.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.GenerateResource.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.AssemblyInfoInputs.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.AssemblyInfo.cs
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.csproj.CoreCompileInputs.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.dll
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.pdb
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.genruntimeconfig.cache
+D:\File code\Chess_AI-master (1)\Chess_AI-master\ChessAIForms\obj\Debug\netcoreapp3.1\ChessAIForms.AI_Form.resources
