@@ -225,3 +225,38 @@ D:\ltm\backup - Copy - Copy\mychess (1)\mychess\Chess_Nhóm 5 (1) (2)\Chess\Ches
 D:\ltm\backup - Copy - Copy\mychess (1)\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
 D:\ltm\backup - Copy - Copy\mychess (1)\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
 D:\ltm\backup - Copy - Copy\mychess (1)\mychess\Chess_Nhóm 5 (1) (2)\Chess\Chess\WindowsFormChess-LAN--main\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Elasticsearch.Net.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Nest.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Buffers.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Memory.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Elasticsearch.Net.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Elasticsearch.Net.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Nest.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\Nest.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Buffers.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Memory.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\ChessAIForms.AI_Form.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.ConnectionForm.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Form1.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.InGameForm.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Login.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.MainMenu.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.PromotionForm.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Register.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CopyComplete
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+D:\Users\Desktop\CS-Winform\Project\Chess\Game\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb

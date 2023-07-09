@@ -9,3 +9,14 @@ C:\Users\DELL\source\repos\new_chess_server\new_chess_server\obj\Debug\new_chess
 C:\Users\DELL\source\repos\new_chess_server\new_chess_server\obj\Debug\new_chess_server.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\new_chess_server\new_chess_server\obj\Debug\new_chess_server.exe
 C:\Users\DELL\source\repos\new_chess_server\new_chess_server\obj\Debug\new_chess_server.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\bin\Debug\new_chess_server.exe.config
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\bin\Debug\new_chess_server.exe
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\bin\Debug\new_chess_server.pdb
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.csproj.AssemblyReference.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.csproj.SuggestedBindingRedirects.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.Form1.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.Properties.Resources.resources
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.csproj.GenerateResource.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.exe
+D:\Users\Desktop\CS-Winform\Project\Chess\new_chess_server\new_chess_server\obj\Debug\new_chess_server.pdb
