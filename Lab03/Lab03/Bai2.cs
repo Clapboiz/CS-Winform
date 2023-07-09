@@ -16,9 +16,9 @@ using System.Net.WebSockets;
 
 namespace Lab3
 {
-    public partial class Form1 : Form
+    public partial class Bai2 : Form
     {
-        public Form1()
+        public Bai2()
         {
             InitializeComponent();
         }
@@ -28,7 +28,7 @@ namespace Lab3
         void StartUnsafeThread()
         {
             int byteReceived = 0;
-            
+
             byte[] recv = new byte[1];
 
             Socket clientSocket;
@@ -58,7 +58,7 @@ namespace Lab3
                     // The received text is appended to a string variable named text. The loop continues receiving data until a newline character is encountered.
                     text += Encoding.UTF8.GetString(recv);
 
-                } while (text[text.Length - 1 ] != '\n');
+                } while (text[text.Length - 1] != '\n');
 
 
 

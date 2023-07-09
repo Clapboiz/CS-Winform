@@ -24,5 +24,4 @@ D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\refint\Lab03.dll
 D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\Lab03.pdb
 D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\Lab03.genruntimeconfig.cache
 D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\ref\Lab03.dll
-D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\Lab3.Form1.resources
-D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\Lab03.Cau2_Menu.resources
+D:\File code\c#\THUC_HANH\Lab03\Lab03\obj\Debug\net6.0-windows\Lab3.Bai2.resources

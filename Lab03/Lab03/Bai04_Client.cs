@@ -86,7 +86,27 @@ namespace Lab03
                     networkStream.Read(data, 0, data.Length);
                     //Chuyển đổi mảng byte chứa nội dung tin nhắn thành chuỗi sử dụng phương thức GetString() của lớp Encoding
                     string message = Encoding.UTF8.GetString(data);
-                    listView1.Items.Add(new ListViewItem(message));
+
+                    // Lấy tên user của người gửi tin nhắn
+                    string senderName = message.Split(':')[0].Trim();
+
+                    // Tạo một đối tượng ListViewItem mới
+                    var item = new ListViewItem(message);
+
+                    // Kiểm tra xem người gửi tin nhắn có phải là user của bạn hay không
+                    if (senderName == "Tên user của bạn")
+                    {
+                        // Nếu tin nhắn đến từ user của bạn, đặt màu nền của ListViewItem thành màu xám
+                        item.BackColor = Color.LightGray;
+                    }
+                    else
+                    {
+                        // Nếu tin nhắn đến từ các user khác, đặt màu nền của ListViewItem thành màu trắng
+                        item.BackColor = Color.White;
+                    }
+
+                    // Thêm đối tượng ListViewItem mới vào ListView để hiển thị tin nhắn
+                    listView1.Items.Add(item);
                 }
             }
             catch
@@ -94,8 +114,11 @@ namespace Lab03
                 MessageBox.Show("Cannot connect to server. Disconnected or lost connection");
                 Close();
             }
-
         }
 
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

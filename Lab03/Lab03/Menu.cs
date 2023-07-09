@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Lab3;
+using Lab03;
 
 namespace Lab03
 {
@@ -34,7 +36,8 @@ namespace Lab03
 
         private void btn_Bai02_click(object sender, EventArgs e)
         {
-            new Cau2_Menu().Show();
+            Bai2 b2 = new Bai2();
+            b2.ShowDialog();
         }
     }
 }

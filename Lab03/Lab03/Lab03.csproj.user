@@ -28,10 +28,7 @@
     <Compile Update="Bai04_Server.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Cau2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Cau2_Menu.cs">
+    <Compile Update="Bai2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Menu.cs">
